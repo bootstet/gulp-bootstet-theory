@@ -1,0 +1,9 @@
+/* 测试css代码 */
+* {
+  font-size: 24px;
+  border: 1px solid blue;
+  width: 100px;
+  height: 100px;
+  background-color: #ff0;
+  /* 我是注释？ */
+}
